@@ -1,0 +1,1 @@
+web: gunicorn bellybutton-mo.app:app
