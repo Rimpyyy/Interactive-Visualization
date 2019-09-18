@@ -85,6 +85,4 @@ Use Flask API starter code to serve the data needed for your plots.
 
 - - -
 
-### Copyright
 
-Data Boot Camp © 2018. All Rights Reserved.
