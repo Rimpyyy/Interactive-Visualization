@@ -1,1 +1,1 @@
-web: gunicorn bellybutton-rj.app:app
+web: gunicorn app:app
